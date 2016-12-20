@@ -281,7 +281,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #F05F40;
+  color: #337ab7;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -376,8 +376,8 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #337ab7;
+  border-color: #337ab7;
 }
 .btn-primary .badge {
   color: #337ab7;
